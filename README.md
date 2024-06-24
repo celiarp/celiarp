@@ -66,14 +66,6 @@ Hola, me llamo **Celia**. En este espacio subiré mis trabajos personales y comp
 - Integración continua y despliegue automatizado con Jenkins.
 - Desarrollo frontend con Bootstrap, CSS y JavaScript.
 
-### Music Stage Apsystem, S.L. (2017-2023)
-- Especializado en el montaje y operación de pantallas durante eventos en vivo.
-- Diseño, montaje y gestión técnica de sistemas visuales.
-- Instalación y configuración de sistemas de iluminación y sonido.
-- Coordinación de logística técnica en colaboración con el equipo.
-- Resolución de problemas técnicos durante eventos en vivo.
-- Configuración y desmontaje de equipos audiovisuales.
-
 ## 📚 Formación y Cursos
 
 ### Cursos en Udemy
